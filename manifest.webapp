@@ -1,0 +1,22 @@
+{
+  "version": "1",
+  "name": "Paddle Squirrel",
+  "launch_path": "/index.html",
+  "description": "Dodge the Rocks",
+  "icons": {
+    "16": "/images/klogo16.png",
+    "32": "/images/klogo32.png",
+    "48": "/images/klogo48.png",
+    "60": "/images/klogo60.png",
+    "128": "/images/klogo128.png"
+  },
+  "developer": {
+    "name": "Jason Weathersby",
+    "url": "https://github.com/JasonWeathersby/Paddle"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "orientation": "portrait-primary",
+  "default_locale": "en"
+}
